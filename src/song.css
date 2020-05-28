@@ -1,0 +1,13 @@
+.song-tile {
+  border: black solid 2px;
+  padding: 20px;
+  flex: 0 0 20%;
+  margin: 5px;
+}
+
+.song-wrapper {
+  display: flex;
+  padding: 5px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
